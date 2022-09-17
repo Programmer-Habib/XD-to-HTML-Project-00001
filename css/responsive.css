@@ -21,7 +21,7 @@
         font-size: 1.6rem;
     }
     .header-section{
-        height: 8vh;
+        height: 8rem;
     }
     .nav{
         display: none;
@@ -89,7 +89,7 @@
         padding: 0 2rem;
     }
     .header-section{
-        height: 6vh;
+        height: 6rem;
     }
     .nav{
         display: none;
